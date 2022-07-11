@@ -1,0 +1,1 @@
+/^[^\s\W][a-zA-Z\s]+[^\s\W]$/g; //Accepts only characters and whitespace between words
